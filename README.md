@@ -1,5 +1,5 @@
-#NAME: IBRAHIM FEDAH S
-#REG NO: 212223240056
+NAME: IBRAHIM FEDAH S
+REG NO: 212223240056
 
 # EX NO:1 Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
